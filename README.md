@@ -35,17 +35,9 @@ Busco não apenas aprender, mas construir uma presença sólida na comunidade te
 
 ### 📊 Contribuições e Foco
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feitozadev&theme=dracula" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Feitozadev&theme=dracula" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Feitozadev&theme=dracula" width="48%" />
-</p>
-
 ---
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfeitoza-silva)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LucasSilva202414@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l1ucas_silva)
