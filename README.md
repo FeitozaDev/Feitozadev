@@ -1,21 +1,21 @@
-# Olá, eu sou o Lucas Feitoza 👋 (FeitozaDev)
+# Olá, eu sou o Lucas Feitoza 👋
 
-Sou um entusiasta da tecnologia e estudante de **Tecnologia da Informação**. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema **Java** através da formação na **Alura**, enquanto busco minha primeira oportunidade como **Estagiário em Desenvolvimento de Software**.
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Lucas%20Feitoza&fontSize=70&animation=fadeIn)
 
----
+### 👨‍💻 Sobre Mim
+Me chamo Lucas Feitoza, sou natural de São Bernardo do Campo - SP. Atualmente, sou estudante de **Tecnologia da Informação** e estou mergulhando de cabeça no ecossistema **Java**. 
 
-### 🚀 Sobre mim
+Assim como a Larissa (minha inspiração), busco não apenas aprender, mas construir uma presença sólida na comunidade tech. Meu foco principal hoje é a **Formação Java da Alura**, onde estou desenvolvendo projetos práticos para dominar a Orientação a Objetos e boas práticas de desenvolvimento.
 
-- 🎓 Cursando Tecnologia da Informação (Sua Instituição Aqui).
-- 💻 Atualmente desenvolvendo projetos em **Java** com foco em Orientação a Objetos.
-- 🎯 Objetivo: Integrar uma equipe de tecnologia onde eu possa aprender, contribuir e evoluir como desenvolvedor.
-- 📚 Constantemente estudando novas ferramentas para criar soluções eficientes e escaláveis.
+- 🎯 **Objetivo:** Conquistar minha primeira vaga de **Estágio em Desenvolvimento de Software**.
+- 🚀 **Foco Atual:** Java, Spring Boot e persistência de dados com SQL.
+- 🌱 **Aprendendo:** Novas formas de otimizar código e padrões de projeto.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Back-end:**
+**Back-end:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -26,13 +26,16 @@ Sou um entusiasta da tecnologia e estudante de **Tecnologia da Informação**. A
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📊 Estatísticas do GitHub
+Aqui você pode ver um resumo do meu empenho e tecnologias mais utilizadas:
 
-Seja para um café virtual, networking ou oportunidades de estágio, sinta-se à vontade para me encontrar em:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeitozaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeitozaDev&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
-> *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfeitoza-silva)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LucasSilva202414@outlook.com)
