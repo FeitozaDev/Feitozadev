@@ -1,12 +1,19 @@
 # Olá, eu sou o Lucas Feitoza 👋
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Lucas%20Feitoza&fontSize=70&animation=fadeIn)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Feitoza;Dev+Java+em+forma%C3%A7%C3%A3o+%E2%98%95;Buscando+Est%C3%A1gio+em+Dev!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 ### 👨‍💻 Sobre Mim
 Me chamo Lucas Feitoza, sou natural de São Bernardo do Campo - SP. Atualmente, sou estudante de **Tecnologia da Informação** e estou mergulhando de cabeça no ecossistema **Java**. 
 
-Assim como a Larissa (minha inspiração), busco não apenas aprender, mas construir uma presença sólida na comunidade tech. Meu foco principal hoje é a **Formação Java da Alura**, onde estou desenvolvendo projetos práticos para dominar a Orientação a Objetos e boas práticas de desenvolvimento.
+Busco não apenas aprender, mas construir uma presença sólida na comunidade tech. Meu foco principal hoje é a **Java**, onde estou desenvolvendo projetos práticos para dominar a Orientação a Objetos e boas práticas de desenvolvimento.
 
+
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Cursando Pós em Arquitetura e Desenvolvimento Java.
 - 🎯 **Objetivo:** Conquistar minha primeira vaga de **Estágio em Desenvolvimento de Software**.
 - 🚀 **Foco Atual:** Java, Spring Boot e persistência de dados com SQL.
 - 🌱 **Aprendendo:** Novas formas de otimizar código e padrões de projeto.
