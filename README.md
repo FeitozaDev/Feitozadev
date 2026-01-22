@@ -6,13 +6,6 @@
   </a>
 </div>
 
-# Olá, eu sou o Lucas Feitoza 👋
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=IT+Support+Specialist+%7C+Java+Developer+Student;Especialista+em+Suporte+%7C+Dev+Java+em+Formação;Building+Software+Solutions+%26+Cloud+Infrastructure;Construindo+Soluções+de+Software+e+Infraestrutura" alt="Typing SVG" />
-  </a>
-</div>
 
 ## 🌎 Idiomas / Languages
 [Português](#br-português) | [English](#us-english)
